@@ -2,10 +2,16 @@ h1{
     background-color:burlywood;
     color: blueviolet;
     text-align: center;
+    border: 2px red solid;
+    padding: 15px ;
+    margin: 5px;
     
 }
 div{
     background-color: aquamarine;
     color: blueviolet;
     text-shadow: 10px green solid;
+    border: 2px red solid;
+    padding: 10px ;
+    margin: 5px;
 }
